@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background-image: url("../src/assets/pizza-background.jfif");
+}
+
+:root{
+  --primary-color:orange;
+  --dark-color:#303030;
+}
